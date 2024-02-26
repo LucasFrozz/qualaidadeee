@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+body{
+    text-align: center;
+    font-size: 40px;
+    background-image: url(https://cdn.pixabay.com/photo/2023/08/16/18/05/homes-8194751_1280.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    font-family: "Notable", sans-serif;
+    color: rgb(255, 255, 255);
+    text-shadow: 4px 4px 1px black;
+}
+
+input{
+    font-size: 40px;
+    border: solid 5px;
+    border-radius: 30px;
+    text-shadow: 2px 2px 1px rgb(0, 217, 255);
+    font-family: "Notable", sans-serif;
+    margin: left 10%;
+}
+
+button{
+    font-size: 30px;
+    border-radius: 30px;
+    border: solid 5px;
+    font-family: "Notable", sans-serif;
+    text-shadow: 2px 2px 1px rgb(0, 213, 255);
+}
+
+h3{
+    font-size: 25px;
+    letter-spacing: 2px;
+}

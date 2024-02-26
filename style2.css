@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+body{
+text-align: center;
+background-image: url(https://cdn.pixabay.com/photo/2021/06/24/11/18/background-6360861_1280.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
+
+h1{
+    font-family: "Notable", sans-serif;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 1px rgb(255, 255, 255);
+    letter-spacing: 2px;
+    font-size: 25px;
+}
